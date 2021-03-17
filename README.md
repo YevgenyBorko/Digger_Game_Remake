@@ -1,4 +1,4 @@
-# Digger_game
+# Digging_game
 
 Digger game build via C++ using cmake and SFML library as a part of an OOP project
 
